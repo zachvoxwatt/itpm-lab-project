@@ -13,8 +13,7 @@ Prerequisites:
 1. Pull the main branch of this Repository to local machine.
 2. Have MySQL online and ready to receive connections.
 3. `cd` to `backend` and `frontend` directories within the project folder. Then execute `npm install` command to intake all necessary dependencies.
-4. `cd` to `src` of `backend` directory. To make backend services online first, issue command:
-`nodemon app` or `node app`.
+4. `cd` to `src` of `backend` directory. To make backend services online first, issue command:<br>`nodemon app` or `node app`.
 5. `cd` to `frontend` directory. Generate an optimized build version by issuing: `npm start build`. When it is done, run `serve -s build`.
 6. Access the web application via `http://localhost:3000`.
 
