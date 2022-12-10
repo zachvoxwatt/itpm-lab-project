@@ -16,7 +16,7 @@ const NavBar = () => {
     <nav className="navbar navbar-expand-sm navbar-dark bg-primary">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          Group 5 [BugTracker]
+          Group 9 [BugTracker]
         </a>
         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
           {['admin', 'staff', 'user'].includes(role) && (
